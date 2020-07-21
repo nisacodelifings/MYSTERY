@@ -1,4 +1,4 @@
-"""a better hello world for tkinter by me nisacodelifings"""
+"""A better Hello World for Tkinter"""
 
 import tkinter as tk
 from tkinter import ttk
